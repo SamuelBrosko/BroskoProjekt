@@ -17,10 +17,10 @@
     <!-- ***** Menu Start ***** -->
     <ul class="nav">
         <li><a href="index.php" class="active">Home</a></li>
-        <li><a href="browse.php">Browse</a></li>
-        <li><a href="details.php">Details</a></li>
-        <li><a href="streams.php">Streams</a></li>
-        <li><a href="profile.php">Profile <img src="assets/images/profile-header.jpg" alt=""></a></li>
+        <li><a href="browse.html">Browse</a></li>
+        <li><a href="details.html">Details</a></li>
+        <li><a href="streams.html">Streams</a></li>
+        <li><a href="profile.html">Profile <img src="assets/images/profile-header.jpg" alt=""></a></li>
     </ul>   
     <a class='menu-trigger'>
         <span>Menu</span>
