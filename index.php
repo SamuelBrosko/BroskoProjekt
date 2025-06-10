@@ -79,8 +79,8 @@ https://templatemo.com/tm-579-cyborg-gaming
                 <div class="row">
                   <div class="col-lg-3 col-sm-6">
                     <div class="item">
-                      <img src="assets/images/popular-01.jpg" alt="">
-                      <h4>Fortnite<br><span>Sandbox</span></h4>
+                      <img src="assets/images/moto1.jpg" alt="">
+                      <h4>KTM<br><span>Speed</span></h4>
                       <ul>
                         <li><i class="fa fa-star"></i> 4.8</li>
                         <li><i class="fa fa-download"></i> 2.3M</li>
@@ -89,8 +89,8 @@ https://templatemo.com/tm-579-cyborg-gaming
                   </div>
                   <div class="col-lg-3 col-sm-6">
                     <div class="item">
-                      <img src="assets/images/popular-02.jpg" alt="">
-                      <h4>PubG<br><span>Battle S</span></h4>
+                      <img src="assets/images/moto2.jpg" alt="">
+                      <h4>Harley<br><span>Comfort</span></h4>
                       <ul>
                         <li><i class="fa fa-star"></i> 4.8</li>
                         <li><i class="fa fa-download"></i> 2.3M</li>
@@ -99,8 +99,8 @@ https://templatemo.com/tm-579-cyborg-gaming
                   </div>
                   <div class="col-lg-3 col-sm-6">
                     <div class="item">
-                      <img src="assets/images/popular-03.jpg" alt="">
-                      <h4>Dota2<br><span>Steam-X</span></h4>
+                      <img src="assets/images/moto3.jpg" alt="">
+                      <h4>KTM<br><span>Supermoto</span></h4>
                       <ul>
                         <li><i class="fa fa-star"></i> 4.8</li>
                         <li><i class="fa fa-download"></i> 2.3M</li>
@@ -109,8 +109,8 @@ https://templatemo.com/tm-579-cyborg-gaming
                   </div>
                   <div class="col-lg-3 col-sm-6">
                     <div class="item">
-                      <img src="assets/images/popular-04.jpg" alt="">
-                      <h4>CS-GO<br><span>Legendary</span></h4>
+                      <img src="assets/images/moto4.jpg" alt="">
+                      <h4>Honda<br><span>Comfort</span></h4>
                       <ul>
                         <li><i class="fa fa-star"></i> 4.8</li>
                         <li><i class="fa fa-download"></i> 2.3M</li>
@@ -122,8 +122,8 @@ https://templatemo.com/tm-579-cyborg-gaming
                       <div class="row">
                         <div class="col-lg-6 col-sm-6">
                           <div class="item inner-item">
-                            <img src="assets/images/popular-05.jpg" alt="">
-                            <h4>Mini Craft<br><span>Legendary</span></h4>
+                            <img src="assets/images/moto5.jpg" alt="">
+                            <h4>Harley<br><span>Custom</span></h4>
                             <ul>
                               <li><i class="fa fa-star"></i> 4.8</li>
                               <li><i class="fa fa-download"></i> 2.3M</li>
@@ -132,8 +132,8 @@ https://templatemo.com/tm-579-cyborg-gaming
                         </div>
                         <div class="col-lg-6 col-sm-6">
                           <div class="item">
-                            <img src="assets/images/popular-06.jpg" alt="">
-                            <h4>Eagles Fly<br><span>Matrix Games</span></h4>
+                            <img src="assets/images/moto6.jpg" alt="">
+                            <h4>Honda<br><span>Comfort</span></h4>
                             <ul>
                               <li><i class="fa fa-star"></i> 4.8</li>
                               <li><i class="fa fa-download"></i> 2.3M</li>
@@ -145,8 +145,8 @@ https://templatemo.com/tm-579-cyborg-gaming
                   </div>
                   <div class="col-lg-3 col-sm-6">
                     <div class="item">
-                      <img src="assets/images/popular-07.jpg" alt="">
-                      <h4>Warface<br><span>Max 3D</span></h4>
+                      <img src="assets/images/moto7.jpg" alt="">
+                      <h4>Ducati<br><span>Racing</span></h4>
                       <ul>
                         <li><i class="fa fa-star"></i> 4.8</li>
                         <li><i class="fa fa-download"></i> 2.3M</li>
@@ -155,8 +155,8 @@ https://templatemo.com/tm-579-cyborg-gaming
                   </div>
                   <div class="col-lg-3 col-sm-6">
                     <div class="item">
-                      <img src="assets/images/popular-08.jpg" alt="">
-                      <h4>Warcraft<br><span>Legend</span></h4>
+                      <img src="assets/images/moto8.jpg" alt="">
+                      <h4>Kawasaki<br><span>Speed</span></h4>
                       <ul>
                         <li><i class="fa fa-star"></i> 4.8</li>
                         <li><i class="fa fa-download"></i> 2.3M</li>
