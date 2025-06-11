@@ -802,6 +802,144 @@ Header Style
 
 /* 
 ---------------------------------------------
+Login & Register Page Styles
+--------------------------------------------- 
+*/
+.header-area .main-nav .nav li.logout a {
+  background-color: #27292a;
+  padding: 8px 20px 8px 20px;
+  border-radius: 23px;
+  color: #666;
+  font-weight: 400;
+  font-size: 14px;
+  display: inline-block;
+  margin-left: 10px;
+  transition: all 0.3s;
+}
+
+.header-area .main-nav .nav li.logout a:hover,
+.header-area .main-nav .nav li.logout a.active {
+  color: #fff !important;
+  background-color: #e75e8d !important;
+}
+
+@media (max-width: 992px) {
+  .header-area .main-nav .nav li.logout a {
+    background: #fff !important;
+    color: #1e1e1e !important;
+    height: 50px !important;
+    line-height: 50px !important;
+    padding: 0px !important;
+    border: none !important;
+    margin-left: 0;
+    border-radius: 18px;
+  }
+  .header-area .main-nav .nav li.logout a:hover {
+    background: #fff !important;
+    color: #e75e8d !important;
+  }
+}
+.auth-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #1f2122;
+}
+
+.auth-box {
+  background: #27292a;
+  padding: 40px 30px;
+  border-radius: 23px;
+  box-shadow: 0 4px 32px rgba(0,0,0,0.25);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.auth-box h2 {
+  color: #ec6090;
+  margin-bottom: 30px;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.auth-box form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.auth-box input[type="text"],
+.auth-box input[type="email"],
+.auth-box input[type="password"] {
+  background: #1f2122;
+  border: 1px solid #444;
+  border-radius: 23px;
+  padding: 12px 20px;
+  color: #fff;
+  font-size: 15px;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+.auth-box input[type="text"]:focus,
+.auth-box input[type="email"]:focus,
+.auth-box input[type="password"]:focus {
+  border-color: #ec6090;
+}
+
+.auth-box .main-button {
+  margin-top: 10px;
+}
+
+.auth-box .main-button a,
+.auth-box button[type="submit"] {
+  width: 100%;
+  text-align: center;
+  background: #e75e8d;
+  color: #fff;
+  border: none;
+  border-radius: 25px;
+  padding: 12px 0;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s;
+}
+
+.auth-box .main-button a:hover,
+.auth-box button[type="submit"]:hover {
+  background: #fff;
+  color: #e75e8d;
+}
+
+.auth-box .switch-link {
+  margin-top: 20px;
+  color: #666;
+  font-size: 14px;
+}
+
+.auth-box .switch-link a {
+  color: #ec6090;
+  text-decoration: underline;
+  transition: color 0.3s;
+}
+
+.auth-box .switch-link a:hover {
+  color: #fff;
+}
+
+@media (max-width: 480px) {
+  .auth-box {
+    padding: 25px 10px;
+    max-width: 95vw;
+  }
+}
+
+/* 
+---------------------------------------------
 Banner Style
 --------------------------------------------- 
 */
@@ -1768,4 +1906,24 @@ body {
   .gaming-library .item ul li {
     width: 16%;
   }
+}
+@media (max-width: 1200px) {
+  .header-area .main-nav .logo img,
+  .background-header .main-nav .logo img {
+    width: 120px !important;
+    max-width: 120px !important;
+  }
+}
+.header-area .main-nav .logo img,
+.background-header .main-nav .logo img {
+  width: 100px !important;
+  max-width: 100px !important;
+}
+/* Remove profile picture from header navigation */
+.header-area .main-nav .nav li:last-child a img,
+.background-header .main-nav .nav li:last-child a img {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  visibility: hidden !important;
 }
