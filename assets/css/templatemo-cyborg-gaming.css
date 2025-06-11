@@ -1907,11 +1907,11 @@ body {
     width: 16%;
   }
 }
-@media (max-width: 1200px) {
+@media (max-width: 2000px) {
   .header-area .main-nav .logo img,
   .background-header .main-nav .logo img {
-    width: 120px !important;
-    max-width: 120px !important;
+    width: 200px !important;
+    max-width: 200px !important;
   }
 }
 .header-area .main-nav .logo img,
