@@ -59,7 +59,7 @@ https://templatemo.com/tm-579-cyborg-gaming
             <div class="col-lg-8">
               <div class="featured-games header-text">
                 <div class="heading-section">
-                  <h4><em>Featured</em> Games</h4>
+                  <h4><em>Featured</em> Motorbikes</h4>
                 </div>
                 <div class="owl-features owl-carousel">
                   <div class="item">
@@ -192,7 +192,7 @@ https://templatemo.com/tm-579-cyborg-gaming
           <div class="start-stream">
             <div class="col-lg-12">
               <div class="heading-section">
-                <h4><em>How To Start</em> Riding</h4>
+                <h4><em>How To Start</em> Riding a Bike</h4>
               </div>
               <div class="row">
                 <div class="col-lg-4">
@@ -200,8 +200,8 @@ https://templatemo.com/tm-579-cyborg-gaming
                     <div class="icon">
                       <img src="assets/images/service-01.jpg" alt="" style="max-width: 60px; border-radius: 50%;">
                     </div>
-                    <h4>Go To Your Profile</h4>
-                    <p>Cyborg Gaming is free HTML CSS website template provided by TemplateMo. This is Bootstrap v5.2.0 layout.</p>
+                    <h4>Get the Right Gear</h4>
+                    <p>Wear a helmet and protective clothing. Make sure your bike is the right size and in good working condition before you start.</p>
                   </div>
                 </div>
                 <div class="col-lg-4">
@@ -209,8 +209,8 @@ https://templatemo.com/tm-579-cyborg-gaming
                     <div class="icon">
                       <img src="assets/images/service-02.jpg" alt="" style="max-width: 60px; border-radius: 50%;">
                     </div>
-                    <h4>Live Stream Button</h4>
-                    <p>If you wish to support us, you can make a <a href="https://paypal.me/templatemo" target="_blank">small contribution via PayPal</a> to info [at] templatemo.com</p>
+                    <h4>Learn the Basics</h4>
+                    <p>Practice balancing, starting, and stopping in a safe, open area. Get comfortable with the controls and how your bike responds.</p>
                   </div>
                 </div>
                 <div class="col-lg-4">
@@ -218,13 +218,13 @@ https://templatemo.com/tm-579-cyborg-gaming
                     <div class="icon">
                       <img src="assets/images/service-03.jpg" alt="" style="max-width: 60px; border-radius: 50%;">
                     </div>
-                    <h4>You Are Live</h4>
-                    <p>You are not allowed to redistribute this template's downloadable ZIP file on any other template collection website.</p>
+                    <h4>Start Riding</h4>
+                    <p>Begin with short rides at low speed. Gradually build your confidence and skills before riding in traffic or on busy roads.</p>
                   </div>
                 </div>
                 <div class="col-lg-12">
                   <div class="main-button">
-                    <a href="profile.html">Go To Profile</a>
+                    <a href="profile.html">Learn More Tips</a>
                   </div>
                 </div>
               </div>
@@ -236,113 +236,113 @@ https://templatemo.com/tm-579-cyborg-gaming
           <div class="live-stream">
             <div class="col-lg-12">
               <div class="heading-section">
-                <h4><em>Most Popular</em> Live Stream</h4>
+                <h4><em>Most Popular</em> Events</h4>
               </div>
             </div>
-            <div class="row">
-              <div class="col-lg-3 col-sm-6">
-                <div class="item">
-                  <div class="thumb">
-                    <img src="assets/images/stream-01.jpg" alt="">
-                    <div class="hover-effect">
-                      <div class="content">
+             <div class="row">
+                    <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <div class="thumb">
+                      <img src="assets/images/event1.jpg" alt="">
+                      <div class="hover-effect">
+                        <div class="content">
                         <div class="live">
                           <a href="#">Live</a>
                         </div>
                         <ul>
                           <li><a href="#"><i class="fa fa-eye"></i> 1.2K</a></li>
-                          <li><a href="#"><i class="fa fa-gamepad"></i> CS-GO</a></li>
+                          <li><a href="#"><i class="fa fa-flag-checkered"></i> MotoGP</a></li>
                         </ul>
+                        </div>
                       </div>
+                      </div>
+                      <div class="down-content">
+                      <div class="avatar">
+                        <img src="assets/images/event1.jpg" alt="" style="max-width: 46px; border-radius: 50%; float: left;">
+                      </div>
+                      <span><i class="fa fa-check"></i> KenganC</span>
+                      <h4>International Bike Expo 2024</h4>
+                      </div> 
                     </div>
-                  </div>
-                  <div class="down-content">
-                    <div class="avatar">
-                      <img src="assets/images/avatar-01.jpg" alt="" style="max-width: 46px; border-radius: 50%; float: left;">
                     </div>
-                    <span><i class="fa fa-check"></i> KenganC</span>
-                    <h4>Just Talking With Fans</h4>
-                  </div> 
-                </div>
-              </div>
-              <div class="col-lg-3 col-sm-6">
-                <div class="item">
-                  <div class="thumb">
-                    <img src="assets/images/stream-02.jpg" alt="">
-                    <div class="hover-effect">
-                      <div class="content">
+                    <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <div class="thumb">
+                      <img src="assets/images/event2.jpg" alt="">
+                      <div class="hover-effect">
+                        <div class="content">
                         <div class="live">
                           <a href="#">Live</a>
                         </div>
                         <ul>
                           <li><a href="#"><i class="fa fa-eye"></i> 1.2K</a></li>
-                          <li><a href="#"><i class="fa fa-gamepad"></i> CS-GO</a></li>
+                          <li><a href="#"><i class="fa fa-flag-checkered"></i> MotoGP</a></li>
                         </ul>
+                        </div>
                       </div>
+                      </div>
+                      <div class="down-content">
+                      <div class="avatar">
+                        <img src="assets/images/event2.jpg" alt="" style="max-width: 46px; border-radius: 50%; float: left;">
+                      </div>
+                      <span><i class="fa fa-check"></i> LunaMa</span>
+                      <h4>Annual City Bike Rally</h4>
+                      </div> 
                     </div>
-                  </div>
-                  <div class="down-content">
-                    <div class="avatar">
-                      <img src="assets/images/avatar-02.jpg" alt="" style="max-width: 46px; border-radius: 50%; float: left;">
                     </div>
-                    <span><i class="fa fa-check"></i> LunaMa</span>
-                    <h4>CS-GO 36 Hours Live Stream</h4>
-                  </div> 
-                </div>
-              </div>
-              <div class="col-lg-3 col-sm-6">
-                <div class="item">
-                  <div class="thumb">
-                    <img src="assets/images/stream-03.jpg" alt="">
-                    <div class="hover-effect">
-                      <div class="content">
+                    <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <div class="thumb">
+                      <img src="assets/images/event3.jpg" alt="">
+                      <div class="hover-effect">
+                        <div class="content">
                         <div class="live">
                           <a href="#">Live</a>
                         </div>
                         <ul>
                           <li><a href="#"><i class="fa fa-eye"></i> 1.2K</a></li>
-                          <li><a href="#"><i class="fa fa-gamepad"></i> CS-GO</a></li>
+                          <li><a href="#"><i class="fa fa-flag-checkered"></i> MotoGP</a></li>
                         </ul>
+                        </div>
                       </div>
+                      </div>
+                      <div class="down-content">
+                      <div class="avatar">
+                        <img src="assets/images/event3.jpg" alt="" style="max-width: 46px; border-radius: 50%; float: left;">
+                      </div>
+                      <span><i class="fa fa-check"></i> Areluwa</span>
+                      <h4>Classic Motorbike Parade</h4>
+                      </div> 
                     </div>
-                  </div>
-                  <div class="down-content">
-                    <div class="avatar">
-                      <img src="assets/images/avatar-03.jpg" alt="" style="max-width: 46px; border-radius: 50%; float: left;">
                     </div>
-                    <span><i class="fa fa-check"></i> Areluwa</span>
-                    <h4>Maybe Nathej Allnight Chillin'</h4>
-                  </div> 
-                </div>
-              </div>
-              <div class="col-lg-3 col-sm-6">
-                <div class="item">
-                  <div class="thumb">
-                    <img src="assets/images/stream-04.jpg" alt="">
-                    <div class="hover-effect">
-                      <div class="content">
+                    <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <div class="thumb">
+                      <img src="assets/images/event4.jpg" alt="">
+                      <div class="hover-effect">
+                        <div class="content">
                         <div class="live">
                           <a href="#">Live</a>
                         </div>
                         <ul>
                           <li><a href="#"><i class="fa fa-eye"></i> 1.2K</a></li>
-                          <li><a href="#"><i class="fa fa-gamepad"></i> CS-GO</a></li>
+                          <li><a href="#"><i class="fa fa-flag-checkered"></i> MotoGP</a></li>
                         </ul>
+                        </div>
                       </div>
+                      </div>
+                      <div class="down-content">
+                      <div class="avatar">
+                        <img src="assets/images/event4.jpg" alt="" style="max-width: 46px; border-radius: 50%; float: left;">
+                      </div>
+                      <span><i class="fa fa-check"></i> GangTm</span>
+                      <h4>Mountain Adventure Ride</h4>
+                      </div> 
                     </div>
-                  </div>
-                  <div class="down-content">
-                    <div class="avatar">
-                      <img src="assets/images/avatar-04.jpg" alt="" style="max-width: 46px; border-radius: 50%; float: left;">
                     </div>
-                    <span><i class="fa fa-check"></i> GangTm</span>
-                    <h4>Live Streaming Till Morning</h4>
-                  </div> 
-                </div>
-              </div>
               <div class="col-lg-12">
                 <div class="main-button">
-                  <a href="streams.html">Discover All Streams</a>
+                  <a href="streams.html">Discover All Events</a>
                 </div>
               </div>
             </div>
