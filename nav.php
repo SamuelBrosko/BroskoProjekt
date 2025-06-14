@@ -19,7 +19,7 @@
   <ul class="nav">
     <li><a href="index.php" class="active">Home</a></li>
     <li><a href="browse.php">Browse</a></li>
-    <li><a href="details.html">Details</a></li>
+    <li><a href="qna.php">QnA</a></li>
     <li><a href="streams.html">Streams</a></li>
 
     <?php if (!empty($_SESSION['user'])): ?>
