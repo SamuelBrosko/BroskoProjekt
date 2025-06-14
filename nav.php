@@ -20,7 +20,7 @@
     <li><a href="index.php" class="active">Home</a></li>
     <li><a href="browse.php">Browse</a></li>
     <li><a href="qna.php">QnA</a></li>
-    <li><a href="streams.html">Streams</a></li>
+    <li><a href="diss.php">Discussion</a></li>
 
     <?php if (!empty($_SESSION['user'])): ?>
       <!-- Logged in -->

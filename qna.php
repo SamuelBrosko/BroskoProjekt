@@ -1,10 +1,7 @@
 <?php
-// qna.php
-$pdo = new PDO('mysql:host=localhost;dbname=eshop', 'root', '');
-$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-
-$stmt = $pdo->query("SELECT * FROM qna ORDER BY created_at DESC LIMIT 10");
-$qnaList = $stmt->fetchAll(PDO::FETCH_ASSOC);
+require_once 'QnAA.php';
+$qna = new QnA();
+$qnaList = $qna->getLatest();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -54,7 +51,6 @@ $qnaList = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <?php include 'footer.php'; ?>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-
 <script src="vendor/jquery/jquery.min.js"></script>
 <script src="assets/js/owl-carousel.js"></script>
 <script src="assets/js/custom.js"></script>
